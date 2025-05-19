@@ -3,3 +3,4 @@ This project aims to develop a Twitter bot that analyzes the final quarter of NB
 # Papers implemented during this process
 * Finding modern era NBA 3-ball dominance in games: https://journals.sagepub.com/doi/full/10.3233/JSA-200525
 * https://www.stat.berkeley.edu/~aldous/157/Papers/kenter.pdf
+* https://journals.sagepub.com/doi/full/10.3233/JSA-180231
