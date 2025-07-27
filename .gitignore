@@ -1,2 +1,4 @@
 venv/
 api_data/db.ini
+api_data/scraping_betting_data.py
+api_data/rotowire_nba_games_archive.csv
